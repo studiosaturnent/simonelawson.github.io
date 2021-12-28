@@ -2,9 +2,9 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import "./web19201.css";
+import "./main.css";
 
-class Web19201 extends React.Component {
+class Index extends React.Component {
 
   constructor(props) {
       super(props);
